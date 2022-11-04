@@ -6,7 +6,7 @@ I mainly use Blender for:
 - rendering movies of molecular simulation trajectories. 
 
 ### To create HD 3D images:
-A ```.blend``` example files is located in the release code. It displays a lipid bilayer and its GPCR. This will serve as a guide for some ideal Blender settings, how to model a membrane and protein. All rights reserved by Lexin Chen. 
+Two ```.blend``` example files is located in the release code. It displays a lipid bilayer and its GPCR. This will serve as a guide for some ideal Blender settings, how to model a membrane and protein. All rights reserved by Lexin Chen. Tw
 
 Two great resources that guided me into this world are: 
 - Crash course Blender by Blender Guru, especially [this beginner playlist](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U).
@@ -16,4 +16,4 @@ Two great resources that guided me into this world are:
 1. Load trajectory into [Visual of Molecular Dynamics (VMD)](http://www.ks.uiuc.edu/Research/vmd/).
 2. Use the ```get_movie.tcl``` script to render an image for every frame of the trajectory. 
 3. Import all the rendered images into the Blender Video Editing. 
-4. Render and export your movie.
+4. Render and export your movie. More instructions on this in the release form under the ```.blend1``` file.
