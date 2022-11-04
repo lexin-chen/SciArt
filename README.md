@@ -6,7 +6,7 @@ I mainly use Blender for:
 - rendering movies of molecular simulation trajectories. 
 
 ### To create HD 3D images:
-In the repo, I will have some ```.blend``` files that will help you see some settings I like to use.
+A ```.blend``` example files is located in the release code. It displays a lipid bilayer and its GPCR.
 
 Two great resources that guided me into this world are 
 - Crash course Blender by Blender Guru, especially [this beginner playlist](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U).
