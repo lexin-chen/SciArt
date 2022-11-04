@@ -10,6 +10,7 @@ Two ```.blend``` example files is located in the release code. It displays a lip
 
 Two great resources that guided me into this world are: 
 - Crash course Blender by Blender Guru, especially [this beginner playlist](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U).
+  - Note: Some settings deviate from Blender 2.8 in the videos and the newest Blender versions.
 - Rendering 3D molecules into ultra-HD images by [Brady Johnson](https://www.youtube.com/c/BradyJohnston).
 
 ### To create HD movies of molecular simulation trajectories:
