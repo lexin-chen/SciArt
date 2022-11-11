@@ -5,6 +5,10 @@ I mainly use Blender for:
 - rendering 3D images of biomolecules.
 - rendering movies of molecular simulation trajectories. 
 
+<img src="beta_arrestin.png" width="432" height="576" align="center"></a>
+<img src="g_protein.png" width="432" height="576" align="center"></a>
+<img src="ligandmovie.gif" width="400" height="400" align="center"></a>
+
 ### To create HD 3D images:
 Two ```.blend``` example files is located in the release code. It displays a lipid bilayer and its GPCR. This will serve as a guide for some ideal Blender settings, how to model a membrane and protein. 
 
