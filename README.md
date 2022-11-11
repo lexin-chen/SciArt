@@ -5,8 +5,8 @@ I mainly use Blender for:
 - rendering 3D images of biomolecules.
 - rendering movies of molecular simulation trajectories. 
 
-<img src="beta_arrestin.png" width="432" height="576" align="center"></a>
-<img src="g_protein.png" width="432" height="576" align="center"></a>
+<img src="beta_arrestin.png" width="360" height="480" align="center"></a>
+<img src="g_protein.png" width="360" height="480" align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
 
 ### To create HD 3D images:
