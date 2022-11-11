@@ -21,6 +21,6 @@ Two great resources that guided me into this world are:
 3. Import all the rendered images into the Blender Video Editing. 
 4. Render and export your movie. More instructions on this in the release form under the ```.blend1``` file.
 
-The version of Blender that I use is Blender 3.2.0. I strongly recommend getting a GPU card if you are expecting reccurrent usage.
+*The version of Blender that I use is Blender 3.2.0. I strongly recommend getting a GPU card if you are expecting reccurrent usage.*
 
 **All rights reserved by Lexin Chen.**
