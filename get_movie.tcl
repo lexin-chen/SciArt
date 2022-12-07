@@ -1,8 +1,8 @@
 # Purpose: Made this script because you have to pay for VideoMach on VMD. 
 # What it does: This script renders every frame of your trajectory using TachyonInternal command.
 
-# Note: In the case that VMD crashes, I suggest setting n to a number less than 80 or using the latest stable VMD version.
-# make sure to change the path to your own local directories.
+# Note: In the case that VMD crashes, I suggest setting n to a number less than 80 and/or using the latest stable VMD version.
+# Make sure to change the path to your own local directories.
 
 set n [molinfo top get numframes]
 for { set i 0 } { $i < $n } { incr i } {
