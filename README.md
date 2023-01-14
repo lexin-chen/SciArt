@@ -1,4 +1,4 @@
-# Interested in creating beautiful 3D biomolecules digital art?
+## Interested in creating beautiful 3D biomolecules digital art?
 <img src="beta_arrestin.png" width="360" height="480" align="center"></a>
 <img src="g_protein.png" width="360" height="480" align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
