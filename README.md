@@ -1,6 +1,6 @@
 ## Interested in creating beautiful 3D biomolecules digital art?
-<img src="gp.png" width="480" height=auto align="center"></a>
-<img src="ba.png" width="480" height=auto align="center"></a>
+<img src="gp.png" width="450" height=auto align="center"></a>
+<img src="ba.png" width="450" height=auto align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
 
 I mainly use the open-sourced software, Blender, for:
