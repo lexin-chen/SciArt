@@ -3,7 +3,7 @@
 <img src="ba.png" width="360" height=auto align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
 
-I mainly use the open-sourced software, Blender, for:
+I mainly use the open-sourced software, [Blender](https://www.blender.org/), for:
 - rendering 3D images of biomolecules.
 - rendering movies of molecular simulation trajectories. 
 
