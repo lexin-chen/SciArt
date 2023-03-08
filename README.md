@@ -2,6 +2,7 @@
 <img src="gp.png" width="360" height=auto align="center"></a>
 <img src="ba.png" width="360" height=auto align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
+<br>**© 2023 Lexin Chen. All rights reserved.**</br>
 
 I mainly use the open-sourced software, [Blender](https://www.blender.org/), for:
 - rendering 3D images of biomolecules.
@@ -23,4 +24,4 @@ Two great resources that guided me into this world are:
 
 *The version of Blender that I use is Blender 3.2.0. I strongly recommend getting a GPU card if you are expecting reccurrent usage.*
 
-**All rights reserved by Lexin Chen.**
+
