@@ -4,7 +4,7 @@
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
 <br>**© 2023 Lexin Chen. All rights reserved.**</br>
 
-##**Open for commissons, please contact me le.chen *at* ufl *dot* edu if you want custom made images or animations.**
+## **Open for commissons, please contact me le.chen *at* ufl *dot* edu if you want custom made images or animations.**
 
 I mainly use the open-sourced software, [Blender](https://www.blender.org/), for:
 - rendering 3D images of biomolecules.
