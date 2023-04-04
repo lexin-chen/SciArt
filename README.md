@@ -5,7 +5,7 @@
 
 **© 2023 Lexin Chen. All rights reserved. More at [my website](https://lexin-chen.github.io/).**
 
-### **📣🪄 Open for commissions, please contact me le.chen *at* ufl *dot* edu if you want custom-made images or animations. 🪄📣** 
+### **📣🪄 Open for commissions, please contact me le.chen *at* ufl *dot* edu for custom-made images or animations. 🪄📣** 
 
 I mainly use the open-sourced software, [Blender](https://www.blender.org/), for:
 - rendering 3D images of biomolecules.
