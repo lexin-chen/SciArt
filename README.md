@@ -1,4 +1,4 @@
-## Interested in creating beautiful 3D scientific digital art?
+## Bringing science to life with stunning 3D digital art
 <img src="gp.png" width="360" height=auto align="center"></a>
 <img src="ba.png" width="360" height=auto align="center"></a>
 <img src="ligandmovie.gif" width="400" height="400" align="center"></a>
